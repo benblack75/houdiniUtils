@@ -11,4 +11,4 @@ target_node = parent_node.node('box1')
 def export_to_drive():
     target_node.geometry().saveToFile(output_path)
 
-
+export_to_drive()
