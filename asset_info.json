@@ -1,0 +1,16 @@
+{
+	"asset1": {
+		"id": "01",
+		"name": "obj1.abc",
+		"link": "https://drive.google.com/file/d/13ys_VGXi_XR2HdcHtNN91kE597fCnj3G/view?usp=drive_link",
+		"author": "ben",
+		"company": "blackInteractive"
+	},
+	"asset2": {
+		"id": "02",
+		"name": "obj2.abc",
+		"link": "https://drive.google.com/file/d/1242BwCjmxr9s1OxUNm9j7gp0zocX5k9N/view?usp=drive_link",
+		"author": "ben",
+		"company": "blackInteractive"
+	}
+}
